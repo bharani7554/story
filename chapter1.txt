@@ -1,1 +1,18 @@
+mkdir story
+cd story
+touch chapter1.txt
+open -a /Applications/Visual\ Studio\ Code.app chapter1.txt
+git init  - It is the working directory for git.
+ls -a
+git status - current files in working directory and we are changing to status files by using add.
+git add chapter1.txt
+git commit -m "complete chapter1"
+git log
+
+
+Git is save the code at point to point.
+If we lost the code or we get an error and code is lost, then we go to before that we saved using  git.
+Here commit is for that. We can see using commit.
+
+
 It was the best time to do.
