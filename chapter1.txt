@@ -10,6 +10,8 @@ git commit -m "complete chapter1"
 git log
 
 
+If we updated any file then run git add <file name> and git commit -m "" in command line.
+
 Git is save the code at point to point.
 If we lost the code or we get an error and code is lost, then we go to before that we saved using  git.
 Here commit is for that. We can see using commit.
